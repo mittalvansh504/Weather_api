@@ -18,12 +18,6 @@ body {
     position: absolute; 
     top: 250px;  
     right: 150px;
-    
-    /* To place it centrally, you could use:*/
-    /* top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); */
-    
 }
 
 .city {
@@ -31,7 +25,6 @@ body {
     border: solid black 2px;
     font-size: 16px;
     border-radius: 15px;
-    cursor: pointer;
     background-color: rgba(255, 255, 255, 0.7);
 }
 
